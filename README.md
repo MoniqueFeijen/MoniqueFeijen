@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoniqueFeijen
+- 👋 Hi, I’m @Tyscode14
 - 👀 I’m interested in spirituality and python
 - 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on Python projects
